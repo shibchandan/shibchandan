@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css">
+    <title>Herculus' Fashion</title>
+</head>
+
+<body id="back">
+    <header>
+        <div class="container">
+            <h1>Herculus'Fashion</h1>
+            <nav>
+                <ul>
+                    <li><a href="user.html">Profile</a></li>
+                    <li><a href="#products">Products</a></li>
+                    <li><a href="#wishlist">Wishlist</a></li>
+                    <li><a href="#trending">Trending</a></li>
+                    <li><a href="#new-arrivals">New Arrivals</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="hero">
+            <h2>Go ahead and achieve your favourite</h2>
+            <p id="Shop">Shop the latest streetwear inspired by your favorite pop culture icons!</p>
+            <button onclick="document.getElementById('products').scrollIntoView()">Shop Now</button>
+        </section>
+
+        <!-- Shop by Category Section -->
+        <section id="categories">
+            <h2>Shop by Category</h2>
+            <div class="category-grid">
+                <div class="category">
+                    <h3>Streetwear</h3>
+                    <img src="streetwear.jpeg" alt="Streetwear" />
+                </div>
+                <div class="category">
+                    <h3>Casual</h3>
+                    <img src="casual.jpeg" alt="Casual" />
+                </div>
+                <div class="category">
+                    <h3>Luxury</h3>
+                    <img src="luxury.jpeg" alt="Luxury" />
+                </div>
+                <div class="category">
+                    <h3>Accessories</h3>
+                    <img src="accessories.jpeg" alt="Accessories" />
+                </div>
+            </div>
+        </section>
+
+        <section id="featured">
+            <h2>Featured Products</h2>
+            <div id="productList"></div>
+        </section>
+
+        <section id="trending">
+            <h2>Trending Items</h2>
+            <div id="trendingItems"></div>
+        </section>
+
+        <section id="new-arrivals">
+            <h2>New Arrivals</h2>
+            <div id="newArrivalsList"></div>
+        </section>
+
+        <section id="promotions">
+            <h2>Promotions</h2>
+            <p>Use code <strong>FREESHIP</strong> for free shipping on orders over ₹500!</p>
+            <p>Subscribe to our newsletter for exclusive offers!</p>
+            <form id="newsletterForm">
+                <input type="email" id="email" placeholder="Enter your email" required>
+                <button type="submit">Subscribe</button>
+            </form>
+        </section>
+
+        <section id="testimonials">
+            <h2>What Our Customers Say</h2>
+            <div class="testimonial">
+                <p>"I love the unique pieces from Hercules' Fashion! Always find something new!"</p>
+                <span>- Mr. Roy</span>
+            </div>
+            <div class="testimonial">
+                <p>"Great quality and customer service. Highly recommend!"</p>
+                <span>- VK. Sharma</span>
+            </div>
+        </section>
+    </main>
+
+    <!-- <footer>
+        <p>Created by <strong>Hustling Heckers</strong></p>
+        <p>&copy; 2024 Herculus' Fashion</p>
+        <div class="socials">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Youtube</a>
+        </div>
+    </footer> -->
+
+    <footer>
+        <div class="footer-logo">
+            <img src="HerculesFs.svg" alt="Hercules' Fashion Logo" />
+        </div>
+        <p>Created by <strong>Hustling Heckers</strong></p>
+        <p>&copy; 2024 Herculus' Fashion</p>
+        <div class="socials">
+            <a href="https://instagram.com" target="_blank">
+                <img src="instagram-1-svgrepo-com.svg" alt="Instagram" />
+            </a>
+            <a href="https://facebook.com" target="_blank">
+                <img src="svgviewer-output.svg" alt="Facebook" />
+            </a>
+            <a href="https://twitter.com" target="_blank">
+                <img src="twitter-x.svg" alt="Twitter" />
+            </a>
+            <a href="https://youtube.com" target="_blank">
+                <img src="logos--youtube-icon.svg" alt="YouTube" />
+            </a>
+        </div>
+    </footer>
+    
+
+    <script src="home.js"></script>
+</body>
+
+</html>
