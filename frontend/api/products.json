@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Slim Fit Jeans",
+    "category": "Bottoms",
+    "brand": "Hercules Fashion",
+    "price": 59.99,
+    "stock": 60,
+    "description": "Trendy slim fit jeans with stretchable fabric for comfort and durability.",
+    "image": "../images/Jeans.webp"
+  },
+  {
+    "id": 2,
+    "name": "Leather Belt",
+    "category": "Accessories",
+    "brand": "Hercules Fashion",
+    "price": 25.99,
+    "stock": 80,
+    "description": "Premium genuine leather belt with adjustable buckle, perfect for casual and formal wear.",
+    "image": "../images/LeatherBelt.webp"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers",
+    "category": "Footwear",
+    "brand": "Hercules Fashion",
+    "price": 89.99,
+    "stock": 50,
+    "description": "Comfortable and stylish sneakers for everyday use, with breathable mesh and durable sole.",
+    "image": "../images/Sneakers.webp"
+  },
+  {
+    "id": 4,
+    "name": "Hoodie",
+    "category": "Outerwear",
+    "brand": "Hercules Fashion",
+    "price": 49.99,
+    "stock": 70,
+    "description": "Cozy hoodie with front pocket and drawstring hood, made from soft cotton blend fabric.",
+    "image": "../images/hoodieW.webp"
+  },
+  {
+    "id": 5,
+    "name": "Formal Shirt",
+    "category": "Tops",
+    "brand": "Hercules Fashion",
+    "price": 39.99,
+    "stock": 90,
+    "description": "Elegant formal shirt made from premium cotton, suitable for office and formal events.",
+    "image": "../images/Shirt.webp"
+  },
+  {
+    "id": 6,
+    "name": "Chinos",
+    "category": "Bottoms",
+    "brand": "Hercules Fashion",
+    "price": 54.99,
+    "stock": 65,
+    "description": "Comfortable and stylish chinos with slim fit design, perfect for casual and semi-formal wear.",
+    "image": "../images/chinos.webp"
+  },
+  {
+    "id": 7,
+    "name": "Analog Watch",
+    "category": "Accessories",
+    "brand": "Hercules Fashion",
+    "price": 79.99,
+    "stock": 40,
+    "description": "Stylish analog wristwatch with leather strap and water-resistant design.",
+    "image": "../images/AnalogWatch.webp"
+  },
+  {
+    "id": 8,
+    "name": "Backpack",
+    "category": "Accessories",
+    "brand": "Hercules Fashion",
+    "price": 49.99,
+    "stock": 60,
+    "description": "Durable and spacious backpack with multiple compartments, perfect for daily use and travel.",
+    "image": "../images/Backpack.webp"
+  },
+  {
+    "id": 9,
+    "name": "Bracelet",
+    "category": "Accessories",
+    "brand": "Hercules Fashion",
+    "price": 19.99,
+    "stock": 100,
+    "description": "Fashionable bracelet made from premium materials, perfect to complement any outfit.",
+    "image": "../images/Bracelet.webp"
+  }
+]
