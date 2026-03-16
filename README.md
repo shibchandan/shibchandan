@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**shibchandan/shibchandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to co# 💫 About Me:
+# 💫 About Me:
 Shib Chandan Mistry • B.Tech CSE (2027)<br>Motilal Nehru National Institute of Technology Allahabad<br>DSA | C++ | Java | Problem Solving
 
 
@@ -33,10 +24,4 @@ Shib Chandan Mistry • B.Tech CSE (2027)<br>Motilal Nehru National Institute of
 ---
 [![](https://visitcount.itsvg.in/api?id=shibchandan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->llaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
