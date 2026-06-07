@@ -141,13 +141,13 @@ fun_fact: "I debug with coffee and fix with patience"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shibchandan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=shibchandan&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibchandan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shibchandan&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibchandan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibchandan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
@@ -156,7 +156,7 @@ fun_fact: "I debug with coffee and fix with patience"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shibchandan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=shibchandan&theme=tokyonight&no-frame=true&margin-w=4&column=4" />
 
 </div>
 
@@ -166,17 +166,7 @@ fun_fact: "I debug with coffee and fix with patience"
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shibchandan&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=shibchandan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shibchandan&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
