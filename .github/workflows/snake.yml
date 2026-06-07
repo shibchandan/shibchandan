@@ -1,35 +1,43 @@
-name: Generate Snake Animation
+name: 🐍 Generate Contribution Snake
 
 on:
 schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+- cron: "0 0 * * *"   # Runs daily at 00:00 UTC
+workflow_dispatch:       # Manual trigger support
 
 permissions:
 contents: write
 pages: write
 id-token: write
 
+concurrency:
+group: snake-animation
+cancel-in-progress: true
+
 jobs:
-generate:
+build:
+name: Generate & Deploy Snake
 runs-on: ubuntu-latest
+timeout-minutes: 10
 
 ```
 steps:
-  - name: Checkout
+  - name: 📥 Checkout Repository
     uses: actions/checkout@v4
 
-  - name: Generate Snake
+  - name: 🐍 Generate Snake Animation
     uses: Platane/snk@v3
     with:
       github_user_name: shibchandan
       outputs: |
-        dist/github-contribution-grid-snake.svg
-        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        dist/snake.svg
+        dist/snake-dark.svg?palette=github-dark
 
-  - name: Deploy
+  - name: 🚀 Deploy to Output Branch
     uses: JamesIves/github-pages-deploy-action@v4
     with:
       branch: output
       folder: dist
+      clean: true
+      single-commit: true
 ```
