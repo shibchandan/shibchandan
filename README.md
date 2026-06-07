@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shib%20Chandan%20Mistry&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=58&descSize=18" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%40+MNNIT+Allahabad+%7C+2027;Competitive+Programmer+%7C+C%2B%2B+%7C+Java;Full+Stack+Dev+%7C+React+%7C+Node.js;Machine+Learning+%7C+PyTorch+%7C+TensorFlow;Always+building+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%40+MNNIT+Allahabad+%7C+2027;Competitive+Programmer+%7C+C%2B%2B+%7C+Java;Full+Stack+Dev+%7C+React+%7C+Node.js;Machine+Learning+%7C+PyTorch+%7C+TensorFlow;Always+building+something+cool!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=shibchandan&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shibchandan?label=Followers&style=flat&color=7c3aed" alt="GitHub Followers" />
@@ -25,7 +22,7 @@
 ```yaml
 name: Shib Chandan Mistry
 location: MNNIT Allahabad, India
-education: B.Tech Computer Science & Engineering (2023–2027)
+education: B.Tech Computer Science & Engineering (2023-2027)
 focus_areas:
   - Data Structures & Algorithms (C++ / Java)
   - Full Stack Web Development
@@ -35,8 +32,8 @@ currently_learning:
   - System Design
   - Advanced ML/DL techniques
   - DevOps & Containerization
-fun_fact: "I debug with coffee ☕ and fix with patience 🎯"
-` ` `
+fun_fact: "I debug with coffee and fix with patience"
+```
 
 ---
 
@@ -45,10 +42,10 @@ fun_fact: "I debug with coffee ☕ and fix with patience 🎯"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shib%20Chandan%20Mistry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shib-chandan-mistry-698455283)
-[![X](https://img.shields.io/badge/X-@shib__mistr96131-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shib_mistr96131)
-[![Instagram](https://img.shields.io/badge/Instagram-@shibchandan11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shibchandan11)
+[![X](https://img.shields.io/badge/X-%40shib__mistr96131-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shib_mistr96131)
+[![Instagram](https://img.shields.io/badge/Instagram-%40shibchandan11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shibchandan11)
 [![Facebook](https://img.shields.io/badge/Facebook-Shib%20Chandan%20Mistry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Shib%20Chandan%20Mistry)
-[![Gmail](https://img.shields.io/badge/Gmail-shibchandan11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibchandan11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-shibchandan11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibchandan11@gmail.com)
 
 </div>
 
@@ -197,7 +194,6 @@ fun_fact: "I debug with coffee ☕ and fix with patience 🎯"
 
 <div align="center">
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shibchandan/shibchandan/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shibchandan/shibchandan/output/github-contribution-grid-snake.svg" />
@@ -210,12 +206,8 @@ fun_fact: "I debug with coffee ☕ and fix with patience 🎯"
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 <sub>⭐ Star my repos if you find them helpful! Let's connect and build something amazing together.</sub>
 
 </div>
-```
-
-> **Note:** In the `About Me` YAML block, replace the triple backtick fences (` ``` `) with actual backticks — I had to break them here to avoid rendering issues in chat. The downloaded file has them correctly.
