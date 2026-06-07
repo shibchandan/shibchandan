@@ -1,221 +1,120 @@
-<div align="center">
+# 💫 About Me
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shib%20Chandan%20Mistry&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=58&descSize=18" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%40+MNNIT+Allahabad+%7C+2027;Competitive+Programmer+%7C+C%2B%2B+%7C+Java;Full+Stack+Dev+%7C+React+%7C+Node.js;Machine+Learning+%7C+PyTorch+%7C+TensorFlow;Always+building+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shibchandan&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shibchandan?label=Followers&style=flat&color=7c3aed" alt="GitHub Followers" />
-</p>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Shib Chandan Mistry
-location: MNNIT Allahabad, India
-education: B.Tech Computer Science & Engineering (2023–2027)
-focus_areas:
-  - Data Structures & Algorithms (C++ / Java)
-  - Full Stack Web Development
-  - Machine Learning & Deep Learning
-  - Cloud Computing (AWS, GCP)
-currently_learning:
-  - System Design
-  - Advanced ML/DL techniques
-  - DevOps & Containerization
-fun_fact: "I debug with coffee ☕ and fix with patience 🎯"
-` ` `
+<table align="center">
+  <tr>
+    <td>
+      <h1>👋 Hi, I'm Shib Chandan Mistry</h1>
+      <p>🚀 <b>B.Tech in Computer Science and Engineering (Class of 2027)</b><br>
+      🏛️ <b>Motilal Nehru National Institute of Technology (MNNIT) Allahabad</b></p>
+      <p>I am a passionate software engineering student specializing in robust full-stack web development, intelligent system architectures, and algorithmic problem-solving. I love bridging the gap between back-end data consistency and reliable infrastructure.</p>
+      <p>🎯 <b>Core Focus:</b> Data Structures & Algorithms (C++/Java) | MERN Stack Development | MLOps & Data Infrastructure</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shib%20Chandan%20Mistry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shib-chandan-mistry-698455283)
-[![X](https://img.shields.io/badge/X-@shib__mistr96131-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shib_mistr96131)
-[![Instagram](https://img.shields.io/badge/Instagram-@shibchandan11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shibchandan11)
-[![Facebook](https://img.shields.io/badge/Facebook-Shib%20Chandan%20Mistry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Shib%20Chandan%20Mistry)
-[![Gmail](https://img.shields.io/badge/Gmail-shibchandan11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibchandan11@gmail.com)
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shib-chandan-mistry-698455283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:shibchandan11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/shib_mistr96131" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+  <a href="https://instagram.com/shibchandan11" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://facebook.com/Shib%20Chandan%20Mistry" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Technical Expertise
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
+### 🚀 Languages & Core Problem Solving
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web Development Frameworks & Tools
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-</details>
+### 📊 Databases & Data Science Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<details open>
-<summary><b>🌐 Frontend</b></summary>
-<br>
+### ⚙️ DevOps, Cloud & Architecture Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
-<br>
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI / ML</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>🎨 Design Tools</b></summary>
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-</details>
+### 🎨 UI/UX Design Assets
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Featured Production Pipelines & Architecture
 
-<div align="center">
+Here are some core engineering highlights from my repositories that display scalable system patterns:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shibchandan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=shibchandan&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ DriftGuard Retraining Pipeline</h3>
+      <p>An automated MLOps continuous data-monitoring pipeline designed to counteract model decay in production systems.</p>
+      <ul>
+        <li><b>State Tracking:</b> Evaluates sliding windows of embedded text arrays using distance centroids via <code>Supabase (pgvector)</code>.</li>
+        <li><b>Telemetry Systems:</b> Tracks production refusal rates and data safety flags directly scraping into <code>Prometheus</code> and visualized via <code>Grafana</code> dashboards.</li>
+        <li><b>Fallback Triggers:</b> Automates pipeline indexing runs and lightweight conditional <code>LoRA</code> updates when baseline thresholds drift.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎛️ FinOpsRouter Gateway</h3>
+      <p>A cost-optimization routing layer API gateway architecture processing real-time system context rules.</p>
+      <ul>
+        <li><b>Dynamic Allocation:</b> Evaluates incoming request heuristics to route between lower-tier open models and high-cost expert LLMs.</li>
+        <li><b>Budget Safeguards:</b> Enforces persistent financial ceilings through highly responsive transaction counters managed via <code>Redis</code>.</li>
+        <li><b>Resilience Engineering:</b> Configured with isolated fallback rules ensuring continuous request fulfillment during high-load API outtakes.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibchandan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shibchandan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shibchandan&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=shibchandan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+### 📌 Repositories Overview
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/DriftGuard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=DriftGuard&theme=dark" alt="DriftGuard Pin">
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/FinOpsRouter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=FinOpsRouter&theme=dark" alt="FinOpsRouter Pin">
+  </a>
+</p>
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 📊 Developer Diagnostics & Git Performance
 
-<div align="center">
+📊 **Overview Summary**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shibchandan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="ShibChandan Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibchandan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="48%">
+</p>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+🔥 **Activity Streaks**
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shibchandan&theme=dark&hide_border=false" alt="Streak Stats" width="100%">
+</p>
 
-</div>
+🏅 **Git Milestones & Contributor Highlights**
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=shibchandan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" width="100%">
+</p>
+
+👥 **Top Contributions**
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=shibchandan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats">
+</p>
 
 ---
 
-<div align="center">
+### ✍️ Thinkers Core
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</p>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shibchandan/shibchandan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shibchandan/shibchandan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shibchandan/shibchandan/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-<sub>⭐ Star my repos if you find them helpful! Let's connect and build something amazing together.</sub>
-
-</div>
-```
-
-> **Note:** In the `About Me` YAML block, replace the triple backtick fences (` ``` `) with actual backticks — I had to break them here to avoid rendering issues in chat. The downloaded file has them correctly.
+<p align="right">
+  <sub>Total Profile Traffic Audited:</sub>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=shibchandan&icon=0&color=0" alt="Visitor Counter" valign="middle"></a>
+</p>
