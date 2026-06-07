@@ -3,9 +3,6 @@ name: Snake Animation
 on:
 workflow_dispatch:
 
-permissions:
-contents: write
-
 jobs:
 snake:
 runs-on: ubuntu-latest
@@ -14,14 +11,12 @@ runs-on: ubuntu-latest
 steps:
   - uses: actions/checkout@v4
 
-  - name: Generate snake
-    uses: Platane/snk@v3
+  - uses: Platane/snk@v3
     with:
       github_user_name: shibchandan
       outputs: dist/snake.svg
 
-  - name: Deploy
-    uses: JamesIves/github-pages-deploy-action@v4
+  - uses: JamesIves/github-pages-deploy-action@v4
     with:
       branch: output
       folder: dist
