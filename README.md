@@ -45,7 +45,7 @@ fun_fact: "I debug with coffee and fix with patience"
 [![X](https://img.shields.io/badge/X-%40shib__mistr96131-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shib_mistr96131)
 [![Instagram](https://img.shields.io/badge/Instagram-%40shibchandan11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shibchandan11)
 [![Facebook](https://img.shields.io/badge/Facebook-Shib%20Chandan%20Mistry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18spLAJZk4/)
-[![Gmail](https://img.shields.io/badge/Gmail-shibchandan11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shibchandan11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-shibchandan11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shibchandan11@gmail.com)
 
 </div>
 
