@@ -141,13 +141,13 @@ fun_fact: "I debug with coffee and fix with patience"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shibchandan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shibchandan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shibchandan&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibchandan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shibchandan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -156,7 +156,10 @@ fun_fact: "I debug with coffee and fix with patience"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shibchandan&theme=tokyonight&no-frame=true&margin-w=4&column=4" />
+[![An On Fire](https://img.shields.io/badge/🔥%20Commits-113%2B-orange?style=for-the-badge)](https://github.com/shibchandan)
+[![Repositories](https://img.shields.io/github/repos/shibchandan?label=Public%20Repos&style=for-the-badge&color=blueviolet)](https://github.com/shibchandan?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/shibchandan?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/shibchandan)
+[![Followers](https://img.shields.io/github/followers/shibchandan?label=Followers&style=for-the-badge&color=blue)](https://github.com/shibchandan)
 
 </div>
 
