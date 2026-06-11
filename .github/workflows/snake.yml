@@ -16,38 +16,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake animation (light mode)
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push generated files
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-artifacts
-          path: dist/
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Checkout output branch
         uses: actions/checkout@v4
         with:
           ref: output
-          sparse-checkout: .
+          path: output-branch
         continue-on-error: true
 
-      - name: Download artifacts
-        uses: actions/download-artifact@v3
-        with:
-          name: snake-artifacts
-          path: ./
+      - name: Copy snake files to output branch
+        run: |
+          cp github-contribution-grid-snake.svg output-branch/
+          cp github-contribution-grid-snake-dark.svg output-branch/
 
       - name: Commit and push to output branch
+        working-directory: output-branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
           git commit -m "Update snake animation" || echo "No changes to commit"
           git push origin output -f
         continue-on-error: true
